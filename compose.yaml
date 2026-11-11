@@ -1,0 +1,59 @@
+name: shisha-market
+services:
+  db:
+    image: postgres:18-bookworm
+    environment:
+      POSTGRES_DB: shisha
+      POSTGRES_USER: shisha
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?Set POSTGRES_PASSWORD}
+    volumes:
+      - postgres_data:/var/lib/postgresql
+    ports:
+      - "127.0.0.1:5487:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U shisha -d shisha"]
+      interval: 5s
+      timeout: 5s
+      retries: 15
+  migrate:
+    profiles: ["deploy"]
+    build:
+      context: .
+      target: build
+    command: ["npm", "run", "db:migrate"]
+    environment:
+      DATABASE_URL: postgresql://shisha:${POSTGRES_PASSWORD:?Set POSTGRES_PASSWORD}@db:5432/shisha
+    depends_on:
+      db:
+        condition: service_healthy
+  app:
+    profiles: ["deploy"]
+    build: .
+    env_file:
+      - path: .env.production
+        required: false
+    environment:
+      DB_DRIVER: postgres
+      DATABASE_URL: postgresql://shisha:${POSTGRES_PASSWORD:?Set POSTGRES_PASSWORD}@db:5432/shisha
+      STORAGE_DRIVER: s3
+      MAIL_MODE: smtp
+    depends_on:
+      migrate:
+        condition: service_completed_successfully
+    restart: unless-stopped
+  proxy:
+    profiles: ["deploy"]
+    image: caddy:2-alpine
+    environment:
+      SITE_HOST: ${SITE_HOST:-localhost}
+    ports: ["80:80", "443:443"]
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy_data:/data
+      - caddy_config:/config
+    depends_on: [app]
+    restart: unless-stopped
+volumes:
+  postgres_data:
+  caddy_data:
+  caddy_config:

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 164" fill="none">
+  <title>Фургон-лавка Shisha Market</title>
+  <g stroke="#29362d" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M15 47Q15 39 23 39H256V53H286Q296 53 302 62L323 86L340 90Q348 92 348 102V130Q348 138 340 138H23Q15 138 15 130Z" fill="#f6f5f1"/>
+    <path d="M267 64H285Q289 64 293 69L309 87H267Z" fill="#29362d"/>
+    <path d="M258 56V124M267 99H279"/>
+    <path d="M14 124H46M98 138H274M326 138H346"/>
+    <path d="M339 103H348" stroke="#bf4726" stroke-width="7"/>
+    <path d="M345 125H353" stroke-width="6"/>
+    <circle cx="72" cy="138" r="19" fill="#29362d"/>
+    <circle cx="300" cy="138" r="19" fill="#29362d"/>
+    <circle cx="72" cy="138" r="7" fill="#f6f5f1" stroke="none"/>
+    <circle cx="300" cy="138" r="7" fill="#f6f5f1" stroke="none"/>
+  </g>
+  <g transform="translate(0 -6)">
+  <path d="M26 16H241L257 43H10Z" fill="#bf4726"/>
+  <path d="M53 16H80L74 43H42ZM107 16H134V43H106ZM161 16H188L196 43H164ZM215 16H241L257 43H226Z" fill="#f6f5f1"/>
+  <path d="M10 43H257V49Q241 59 226 49Q211 59 195 49Q180 59 164 49Q149 59 133 49Q118 59 102 49Q87 59 71 49Q56 59 41 49Q25 59 10 49Z" fill="#bf4726"/>
+  <path d="M26 16H241L257 43H10Z" stroke="#29362d" stroke-width="4" stroke-linejoin="round"/>
+  </g>
+</svg>

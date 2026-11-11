@@ -1,0 +1,111 @@
+.note {
+  display: grid;
+  gap: 10px;
+  padding: 14px 16px 16px;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  background: white;
+}
+
+.label {
+  margin: 0;
+  font-size: 12px;
+  font-weight: 700;
+  color: #667358;
+}
+
+.head {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.head strong {
+  display: block;
+  font-size: 16px;
+}
+
+.head span {
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.plate {
+  display: grid;
+  place-items: center;
+  flex: 0 0 84px;
+  height: 52px;
+  padding: 6px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: #fbfaf7;
+}
+
+.plate[data-plate="dark"] {
+  background: #1f1d1a;
+  border-color: #1f1d1a;
+}
+
+.plate img {
+  max-width: 100%;
+  max-height: 36px;
+  width: auto;
+  height: auto;
+}
+
+.plate b {
+  font-family: "Zilla Slab", Georgia, serif;
+  font-size: 13px;
+  text-align: center;
+  line-height: 1.1;
+}
+
+.note dl {
+  margin: 0;
+}
+
+.note dl div {
+  display: grid;
+  grid-template-columns: 110px minmax(0, 1fr);
+  gap: 10px;
+  padding: 7px 0;
+  border-top: 1px solid var(--border);
+  font-size: 13px;
+}
+
+.note dt {
+  color: var(--muted);
+}
+
+.note dd {
+  margin: 0;
+}
+
+.note dd a {
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 14px;
+  margin: 0;
+  font-size: 13px;
+}
+
+.small {
+  margin: 0;
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.models {
+  margin: 0;
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+.models span {
+  color: var(--muted);
+}

@@ -1,0 +1,36 @@
+[Unit]
+Description=Shisha Market Next.js preview
+Requires=shisha-egress.service postgresql@18-main.service shisha-storage.service
+After=shisha-egress.service postgresql@18-main.service shisha-storage.service
+
+[Service]
+Type=simple
+User=shisha
+Group=shisha
+WorkingDirectory=/opt/shisha-market/current
+EnvironmentFile=/etc/shisha-market/app.env
+Environment=NODE_ENV=production
+Environment=HOSTNAME=127.0.0.1
+Environment=PORT=4387
+Environment=NODE_OPTIONS=--max-old-space-size=512
+ExecStart=/opt/shisha-market/runtime/bin/node server.js
+Restart=on-failure
+RestartSec=5
+TimeoutStopSec=30
+UMask=0077
+MemoryMax=768M
+TasksMax=128
+NoNewPrivileges=yes
+PrivateTmp=yes
+ProtectSystem=strict
+ProtectHome=yes
+ReadWritePaths=/var/lib/shisha-market
+BindReadOnlyPaths=/etc/shisha-market/resolv.conf:/etc/resolv.conf
+ProtectKernelTunables=yes
+ProtectKernelModules=yes
+ProtectControlGroups=yes
+RestrictSUIDSGID=yes
+RestrictAddressFamilies=AF_UNIX AF_INET
+
+[Install]
+WantedBy=multi-user.target

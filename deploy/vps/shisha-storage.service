@@ -1,0 +1,27 @@
+[Unit]
+Description=Shisha Market private single-node S3 storage
+After=network.target
+
+[Service]
+Type=simple
+User=shisha-storage
+Group=shisha-storage
+EnvironmentFile=/etc/shisha-market/garage.env
+Environment=GARAGE_CONFIG_FILE=/etc/shisha-market/garage.toml
+ExecStart=/opt/shisha-market/bin/garage server --single-node --default-bucket
+Restart=on-failure
+RestartSec=5
+UMask=0077
+MemoryMax=512M
+NoNewPrivileges=yes
+PrivateTmp=yes
+ProtectSystem=strict
+ProtectHome=yes
+ReadWritePaths=/var/lib/shisha-storage
+ProtectKernelTunables=yes
+ProtectKernelModules=yes
+ProtectControlGroups=yes
+RestrictAddressFamilies=AF_UNIX AF_INET
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,10 @@
+[Unit]
+Description=Daily Shisha Market backup
+
+[Timer]
+OnCalendar=*-*-* 04:30:00 UTC
+RandomizedDelaySec=10m
+Persistent=true
+
+[Install]
+WantedBy=timers.target

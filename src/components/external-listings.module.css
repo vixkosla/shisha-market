@@ -1,0 +1,32 @@
+.section { margin: 26px 0 38px; }
+.heading { display: flex; align-items: center; gap: 10px; }
+.heading h3 { margin: 0; font-size: 22px; letter-spacing: -.6px; }
+.count { border: 1px solid #c8cbbb; border-radius: 999px; padding: 1px 9px; font-size: 12px; }
+.intro { max-width: 760px; margin: 9px 0 20px; color: #5e635c; font-size: 14px; }
+.grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 24px; }
+.card { min-width: 0; padding: 24px; border: 1px solid #c8cbbb; border-top: 3px solid #29362d; border-radius: 12px; background: #fff; display: flex; flex-direction: column; }
+.topline { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 10px; }
+.badge { padding: 4px 8px; color: #29362d; background: #eef0e6; border-radius: 4px; font-size: 11px; font-weight: 600; }
+.city { display: inline-flex; align-items: center; gap: 4px; color: #5e635c; font-size: 12px; }
+.card h4 { margin: 20px 0 10px; font-size: 23px; line-height: 1.25; letter-spacing: -.65px; overflow-wrap: anywhere; }
+.summary { margin: 0 0 22px; font-size: 14px; color: #535a51; }
+.status { display: grid; gap: 4px; margin: 0 0 20px; padding: 12px; border-radius: 6px; background: #f4f3ed; color: #5e635c; font-size: 12px; }
+.status strong { color: #3f493e; font-weight: 600; }
+.price { display: flex; flex-direction: column; gap: 3px; margin-top: auto; }
+.price span { font-size: 12px; color: #5e635c; }
+.price strong { font-size: 27px; font-weight: 600; letter-spacing: -.6px; }
+.meta { margin: 20px 0; padding: 16px 0 0; border-top: 1px solid var(--border); font-size: 12px; }
+.meta > div { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 4px 12px; margin: 0 0 7px; }
+.meta dt { color: #5e635c; }
+.meta dd { margin: 0; }
+.meta a, .original { display: inline-flex; align-items: center; gap: 5px; text-decoration: underline; text-underline-offset: 3px; }
+.actions { display: flex; align-items: center; flex-wrap: wrap; gap: 16px; }
+.actions > a { font-size: 13px; }
+.report { align-self: flex-start; margin-top: 18px; color: #5e635c; font-size: 11px; text-decoration: underline; text-underline-offset: 3px; }
+@media (max-width: 640px) {
+  .grid { grid-template-columns: minmax(0, 1fr); gap: 16px; }
+  .card { padding: 20px; }
+  .card h4 { font-size: 21px; }
+  .actions { align-items: stretch; flex-direction: column; gap: 14px; }
+  .actions > a:first-child { justify-content: center; }
+}

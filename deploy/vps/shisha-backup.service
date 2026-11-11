@@ -1,0 +1,10 @@
+[Unit]
+Description=Consistent Shisha Market database and private storage backup
+After=postgresql.service
+
+[Service]
+Type=oneshot
+ExecStart=/opt/shisha-market/ops/backup.sh
+UMask=0077
+Nice=10
+IOSchedulingClass=idle

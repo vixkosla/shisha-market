@@ -1,0 +1,4089 @@
+[
+ {
+  "name": "Alpha Hookah",
+  "aliases": [
+   "alpha hookah",
+   "альфа хука",
+   "альфа хукка",
+   "альфа"
+  ],
+  "categories": [
+   "hookahs",
+   "bowls",
+   "accessories"
+  ],
+  "kind": "Кальяны, Чаши, Калауды (HMD), Шланги, Аксессуары",
+  "models": [
+   "Model X",
+   "Model S",
+   "Beat",
+   "ORO",
+   "Kappa",
+   "Turk Design",
+   "Race",
+   "Smart Limited"
+  ],
+  "country": null,
+  "sources": [
+   "https://www.hookahvault.com/pages/hookahs",
+   "https://www.hookahvault.com/pages/hookah-bowls",
+   "https://shanti.eu/hookahs/",
+   "https://catalog.onliner.by/hookahs",
+   "https://mykalyan.ru/shop/kalyany/",
+   "https://mykalyan.ru/shop/aksessuary/chashi-dlya-kalyana/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Misha",
+  "aliases": [
+   "misha",
+   "миша",
+   "misha by alpha"
+  ],
+  "categories": [
+   "hookahs",
+   "accessories"
+  ],
+  "kind": "Кальяны, Калауды (HMD), Аксессуары",
+  "models": [
+   "Revolt Hero",
+   "Revolt Extra Virgin"
+  ],
+  "country": null,
+  "sources": [
+   "https://www.hookahvault.com/pages/hookahs",
+   "https://shanti.eu/hookahs/",
+   "https://catalog.onliner.by/hookahs",
+   "https://mykalyan.ru/shop/kalyany/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "HOOB",
+  "aliases": [
+   "hoob",
+   "хуб"
+  ],
+  "categories": [
+   "hookahs",
+   "accessories"
+  ],
+  "kind": "Кальяны, Калауды (HMD), Шланги, Аксессуары",
+  "models": [
+   "Atom",
+   "Sub Atom",
+   "Go On",
+   "Go Pro Wood",
+   "Enzo Wood",
+   "Mars Pro Mini",
+   "Pyro 2.0"
+  ],
+  "country": null,
+  "sources": [
+   "https://www.hookahvault.com/pages/hookahs",
+   "https://catalog.onliner.by/hookah_comp",
+   "https://mykalyan.ru/shop/kalyany/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Maklaud",
+  "aliases": [
+   "maklaud",
+   "маклауд"
+  ],
+  "categories": [
+   "hookahs",
+   "bowls",
+   "accessories"
+  ],
+  "kind": "Кальяны, Чаши, Аксессуары",
+  "models": [
+   "Dragon",
+   "Dragon Gold",
+   "Az the Forger",
+   "Meteorras",
+   "Exclusive",
+   "XS",
+   "LUX",
+   "Runner"
+  ],
+  "country": null,
+  "sources": [
+   "https://www.hookahvault.com/pages/hookahs",
+   "https://mykalyan.ru/shop/kalyany/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Union Hookah",
+  "aliases": [
+   "union hookah",
+   "union",
+   "юнион"
+  ],
+  "categories": [
+   "hookahs",
+   "bowls",
+   "accessories"
+  ],
+  "kind": "Кальяны, Чаши, Шланги, Аксессуары",
+  "models": [
+   "Fibonacci",
+   "Sleek",
+   "Argument"
+  ],
+  "country": null,
+  "sources": [
+   "https://www.hookahvault.com/pages/hookahs",
+   "https://shanti.eu/hookahs/",
+   "https://catalog.onliner.by/hookah_comp",
+   "https://mykalyan.ru/shop/kalyany/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "WOOKAH",
+  "aliases": [
+   "wookah",
+   "вука"
+  ],
+  "categories": [
+   "hookahs",
+   "bowls",
+   "accessories"
+  ],
+  "kind": "Кальяны, Чаши, Шланги, Аксессуары",
+  "models": [
+   "Iroko",
+   "Oak",
+   "Merbau",
+   "Walnut",
+   "Brown Leather"
+  ],
+  "country": null,
+  "sources": [
+   "https://www.hookahvault.com/pages/hookahs",
+   "https://hookah.com/c/hookahs",
+   "https://shanti.eu/hoses-and-mouthpieces/",
+   "https://mykalyan.ru/shop/kalyany/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Japona Hookah",
+  "aliases": [
+   "japona hookah",
+   "japona",
+   "япона"
+  ],
+  "categories": [
+   "hookahs",
+   "bowls"
+  ],
+  "kind": "Кальяны, Чаши",
+  "models": [
+   "Shuriken Mini"
+  ],
+  "country": null,
+  "sources": [
+   "https://www.hookahvault.com/pages/hookahs",
+   "https://www.hookahvault.com/pages/hookah-bowls",
+   "https://mykalyan.ru/shop/kalyany/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "MattPear",
+  "aliases": [
+   "mattpear",
+   "matt pear",
+   "мэтпир",
+   "матпир",
+   "метпир"
+  ],
+  "categories": [
+   "hookahs",
+   "accessories"
+  ],
+  "kind": "Кальяны, Калауды (HMD), Шланги, Аксессуары",
+  "models": [
+   "Mini Slim Core",
+   "Classic Slim Core",
+   "Mikrik Core",
+   "Classic Ball Core",
+   "Kolodka 2.0"
+  ],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/kalyany/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Khalil Mamoon",
+  "aliases": [
+   "khalil mamoon",
+   "халил мамун",
+   "халил мамон"
+  ],
+  "categories": [
+   "hookahs"
+  ],
+  "kind": "Кальяны",
+  "models": [
+   "Mini Classic",
+   "Zero"
+  ],
+  "country": null,
+  "sources": [
+   "https://www.hookahvault.com/pages/hookahs",
+   "https://hookah.com/c/hookahs"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Kaloud",
+  "aliases": [
+   "kaloud",
+   "калауд",
+   "lotus",
+   "лотус",
+   "samsaris",
+   "самсарис"
+  ],
+  "categories": [
+   "bowls",
+   "accessories"
+  ],
+  "kind": "Чаши, Калауды (HMD), Аксессуары",
+  "models": [
+   "Lotus I+",
+   "Lotus II",
+   "Lotus III",
+   "Lotus Plus",
+   "Lotus N",
+   "Samsaris Kore",
+   "Samsaris Vitria",
+   "Samsaris Lapis"
+  ],
+  "country": "США",
+  "sources": [
+   "https://www.hookahvault.com/collections/heat-management",
+   "https://hookah.com/c/hookah-accessories/hookah-bowls",
+   "https://shanti.eu/hookah-bowls/",
+   "https://mykalyan.ru/shop/aksessuary/kalaud/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Oduman",
+  "aliases": [
+   "oduman",
+   "одуман"
+  ],
+  "categories": [
+   "hookahs",
+   "bowls",
+   "accessories"
+  ],
+  "kind": "Кальяны, Чаши, Калауды (HMD), Шланги",
+  "models": [
+   "N2",
+   "N2 Gold",
+   "N9 Tarantula",
+   "Voyage",
+   "Gusto-XS",
+   "Ignis"
+  ],
+  "country": null,
+  "sources": [
+   "https://www.hookahvault.com/pages/hookahs",
+   "https://hookah.com/c/hookahs",
+   "https://shanti.eu/hookahs/",
+   "https://epicentrk.ua/shop/kalaudy-dlya-kalyanov/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Steamulation",
+  "aliases": [
+   "steamulation",
+   "стимулейшн",
+   "стимулейшен"
+  ],
+  "categories": [
+   "hookahs",
+   "accessories"
+  ],
+  "kind": "Кальяны, Калауды (HMD), Шланги",
+  "models": [
+   "Heat Management System"
+  ],
+  "country": null,
+  "sources": [
+   "https://www.hookahvault.com/pages/hookahs",
+   "https://shanti.eu/hmd/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Moze",
+  "aliases": [
+   "moze",
+   "мозе"
+  ],
+  "categories": [
+   "hookahs",
+   "accessories"
+  ],
+  "kind": "Кальяны, Калауды (HMD), Шланги, Аксессуары",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://www.hookahvault.com/pages/hookahs",
+   "https://hookah.com/c/hookahs",
+   "https://shanti.eu/hookahs/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Amotion",
+  "aliases": [
+   "amotion",
+   "амоушн",
+   "амотион"
+  ],
+  "categories": [
+   "hookahs",
+   "accessories"
+  ],
+  "kind": "Кальяны, Шланги, Аксессуары",
+  "models": [
+   "FUTR",
+   "FUTR Sky",
+   "Roam",
+   "Flash Bang"
+  ],
+  "country": null,
+  "sources": [
+   "https://www.hookahvault.com/pages/hookahs",
+   "https://shanti.eu/hookahs/",
+   "https://epicentrk.ua/shop/kalyany/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Vyro",
+  "aliases": [
+   "vyro",
+   "вайро",
+   "виро"
+  ],
+  "categories": [
+   "hookahs",
+   "accessories"
+  ],
+  "kind": "Кальяны, Шланги, Аксессуары",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://www.hookahvault.com/pages/hookahs",
+   "https://shanti.eu/hookahs/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Aeon",
+  "aliases": [
+   "aeon",
+   "эон",
+   "аеон"
+  ],
+  "categories": [
+   "hookahs"
+  ],
+  "kind": "Кальяны",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://www.hookahvault.com/pages/hookahs",
+   "https://shanti.eu/hookahs/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Mya",
+  "aliases": [
+   "mya",
+   "мия",
+   "майя"
+  ],
+  "categories": [
+   "hookahs",
+   "accessories"
+  ],
+  "kind": "Кальяны, Шланги",
+  "models": [
+   "Chikita",
+   "Minion",
+   "Aiko"
+  ],
+  "country": null,
+  "sources": [
+   "https://www.hookahvault.com/pages/hookahs",
+   "https://hookah.com/c/hookahs"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Regal",
+  "aliases": [
+   "regal",
+   "регал"
+  ],
+  "categories": [
+   "hookahs",
+   "accessories"
+  ],
+  "kind": "Кальяны, Аксессуары",
+  "models": [
+   "Queen"
+  ],
+  "country": null,
+  "sources": [
+   "https://www.hookahvault.com/pages/hookahs",
+   "https://hookah.com/c/hookahs"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Shishabucks",
+  "aliases": [
+   "shishabucks",
+   "шишабакс"
+  ],
+  "categories": [
+   "hookahs",
+   "bowls",
+   "accessories"
+  ],
+  "kind": "Кальяны, Чаши, Калауды (HMD), Аксессуары",
+  "models": [
+   "Cloud Micro"
+  ],
+  "country": "Канада",
+  "sources": [
+   "https://www.hookahvault.com/pages/hookahs",
+   "https://hookah.com/c/hookahs",
+   "https://shanti.eu/brand/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "El Bomber",
+  "aliases": [
+   "el bomber",
+   "эль бомбер"
+  ],
+  "categories": [
+   "hookahs",
+   "accessories"
+  ],
+  "kind": "Кальяны, Калауды (HMD)",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://www.hookahvault.com/pages/hookahs",
+   "https://mykalyan.ru/shop/kalyany/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "DSH",
+  "aliases": [
+   "dsh",
+   "дсш",
+   "дсх"
+  ],
+  "categories": [
+   "hookahs",
+   "accessories"
+  ],
+  "kind": "Кальяны, Аксессуары",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://www.hookahvault.com/pages/hookahs",
+   "https://catalog.onliner.by/hookahs",
+   "https://mykalyan.ru/shop/kalyany/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Geometry",
+  "aliases": [
+   "geometry",
+   "геометри",
+   "геометрия"
+  ],
+  "categories": [
+   "hookahs",
+   "bowls",
+   "accessories"
+  ],
+  "kind": "Кальяны, Чаши, Аксессуары",
+  "models": [
+   "Big Bro"
+  ],
+  "country": null,
+  "sources": [
+   "https://www.hookahvault.com/pages/hookahs",
+   "https://www.hookahvault.com/pages/hookah-bowls",
+   "https://mykalyan.ru/shop/kalyany/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Honey Sigh",
+  "aliases": [
+   "honey sigh",
+   "хани сай"
+  ],
+  "categories": [
+   "hookahs"
+  ],
+  "kind": "Кальяны",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://www.hookahvault.com/pages/hookahs",
+   "https://mykalyan.ru/shop/kalyany/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Hookah Tree",
+  "aliases": [
+   "hookah tree",
+   "hookah trees",
+   "хука три"
+  ],
+  "categories": [
+   "hookahs"
+  ],
+  "kind": "Кальяны",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://www.hookahvault.com/pages/hookahs"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Na Grani",
+  "aliases": [
+   "na grani",
+   "на грани"
+  ],
+  "categories": [
+   "hookahs",
+   "accessories"
+  ],
+  "kind": "Кальяны, Калауды (HMD), Шланги, Аксессуары",
+  "models": [
+   "SS H2",
+   "Stick"
+  ],
+  "country": "Россия",
+  "sources": [
+   "https://www.hookahvault.com/pages/hookahs",
+   "https://www.hookahvault.com/collections/heat-management",
+   "https://mykalyan.ru/shop/kalyany/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Dschinni",
+  "aliases": [
+   "dschinni",
+   "джинни"
+  ],
+  "categories": [
+   "hookahs",
+   "bowls"
+  ],
+  "kind": "Кальяны, Чаши",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://shanti.eu/hookahs/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Embery",
+  "aliases": [
+   "embery",
+   "эмбери"
+  ],
+  "categories": [
+   "hookahs",
+   "accessories"
+  ],
+  "kind": "Кальяны, Шланги, Аксессуары",
+  "models": [
+   "Mono Basic",
+   "Mono Wave",
+   "Fluence Mini",
+   "Equal"
+  ],
+  "country": "Украина",
+  "sources": [
+   "https://shanti.eu/hookahs/",
+   "https://epicentrk.ua/shop/shakhty-dlya-kalyanov/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Fox",
+  "aliases": [
+   "fox",
+   "fox hookah",
+   "фокс"
+  ],
+  "categories": [
+   "hookahs",
+   "bowls",
+   "accessories"
+  ],
+  "kind": "Кальяны, Чаши, Аксессуары",
+  "models": [],
+  "country": "Россия",
+  "sources": [
+   "https://shanti.eu/brand/",
+   "https://mykalyan.ru/shop/kalyany/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Izzy",
+  "aliases": [
+   "izzy",
+   "иззи"
+  ],
+  "categories": [
+   "hookahs"
+  ],
+  "kind": "Кальяны",
+  "models": [
+   "Air",
+   "Prime"
+  ],
+  "country": "Россия",
+  "sources": [
+   "https://shanti.eu/hookahs/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Tortuga",
+  "aliases": [
+   "tortuga",
+   "тортуга"
+  ],
+  "categories": [
+   "hookahs",
+   "bowls",
+   "accessories"
+  ],
+  "kind": "Кальяны, Чаши, Шланги, Аксессуары",
+  "models": [],
+  "country": "Россия",
+  "sources": [
+   "https://shanti.eu/brand/",
+   "https://mykalyan.ru/shop/kalyany/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Totem",
+  "aliases": [
+   "totem",
+   "тотем"
+  ],
+  "categories": [
+   "hookahs",
+   "accessories"
+  ],
+  "kind": "Кальяны, Аксессуары",
+  "models": [
+   "Idol"
+  ],
+  "country": "Украина",
+  "sources": [
+   "https://shanti.eu/hookahs/",
+   "https://epicentrk.ua/shop/shakhty-dlya-kalyanov/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Tiaga Hookah",
+  "aliases": [
+   "tiaga hookah",
+   "tiaga",
+   "тиага"
+  ],
+  "categories": [
+   "hookahs"
+  ],
+  "kind": "Кальяны",
+  "models": [
+   "IRIS",
+   "Edition X",
+   "Бита",
+   "Classic",
+   "Classic Mini"
+  ],
+  "country": "Украина",
+  "sources": [
+   "https://epicentrk.ua/shop/shakhty-dlya-kalyanov/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Trumpet",
+  "aliases": [
+   "trumpet",
+   "трампет"
+  ],
+  "categories": [
+   "hookahs"
+  ],
+  "kind": "Кальяны",
+  "models": [
+   "Empire",
+   "Rider",
+   "Rider S"
+  ],
+  "country": "Украина",
+  "sources": [
+   "https://epicentrk.ua/shop/shakhty-dlya-kalyanov/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Sunpipe",
+  "aliases": [
+   "sunpipe",
+   "санпайп"
+  ],
+  "categories": [
+   "hookahs"
+  ],
+  "kind": "Кальяны",
+  "models": [
+   "Odin"
+  ],
+  "country": "Украина",
+  "sources": [
+   "https://epicentrk.ua/shop/shakhty-dlya-kalyanov/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Sky Hookah",
+  "aliases": [
+   "sky hookah",
+   "скай хука",
+   "скай"
+  ],
+  "categories": [
+   "hookahs",
+   "bowls",
+   "accessories"
+  ],
+  "kind": "Кальяны, Чаши, Шланги",
+  "models": [
+   "Classic",
+   "Mini",
+   "Camouflage",
+   "Zebra",
+   "Skeleton"
+  ],
+  "country": "Украина",
+  "sources": [
+   "https://epicentrk.ua/shop/shakhty-dlya-kalyanov/",
+   "https://mykalyan.ru/shop/kalyany/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Gramm Hookah",
+  "aliases": [
+   "gramm hookah"
+  ],
+  "categories": [
+   "hookahs"
+  ],
+  "kind": "Кальяны",
+  "models": [
+   "Orbis Fatum",
+   "Solo"
+  ],
+  "country": "Украина",
+  "sources": [
+   "https://epicentrk.ua/shop/shakhty-dlya-kalyanov/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Khmara",
+  "aliases": [
+   "khmara",
+   "хмара"
+  ],
+  "categories": [
+   "hookahs"
+  ],
+  "kind": "Кальяны",
+  "models": [
+   "Zirka Antares Mini"
+  ],
+  "country": "Украина",
+  "sources": [
+   "https://epicentrk.ua/shop/shakhty-dlya-kalyanov/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Aroma Hookah",
+  "aliases": [
+   "aroma hookah",
+   "арома"
+  ],
+  "categories": [
+   "hookahs",
+   "bowls"
+  ],
+  "kind": "Кальяны, Чаши",
+  "models": [
+   "Mike",
+   "Zulu",
+   "Tango",
+   "Charlie Mini",
+   "Bravo"
+  ],
+  "country": "Украина",
+  "sources": [
+   "https://epicentrk.ua/shop/shakhty-dlya-kalyanov/",
+   "https://shanti.eu/hookah-bowls/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Kaya",
+  "aliases": [
+   "kaya",
+   "кая",
+   "кайя"
+  ],
+  "categories": [
+   "hookahs",
+   "accessories"
+  ],
+  "kind": "Кальяны, Шланги, Аксессуары",
+  "models": [
+   "INOX Tradi",
+   "Elox"
+  ],
+  "country": "Германия",
+  "sources": [
+   "https://shanti.eu/brand/",
+   "https://epicentrk.ua/shop/shakhty-dlya-kalyanov/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Aladin",
+  "aliases": [
+   "aladin",
+   "аладин"
+  ],
+  "categories": [
+   "hookahs",
+   "bowls",
+   "accessories"
+  ],
+  "kind": "Кальяны, Чаши, Калауды (HMD), Шланги, Аксессуары",
+  "models": [
+   "Alux Admiral",
+   "Alux M5",
+   "Alux 380",
+   "Alux M7",
+   "Alux M8",
+   "2Go"
+  ],
+  "country": "Германия",
+  "sources": [
+   "https://shanti.eu/brand/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Amy Deluxe",
+  "aliases": [
+   "amy deluxe",
+   "amy",
+   "эми делюкс",
+   "эми"
+  ],
+  "categories": [
+   "hookahs",
+   "accessories"
+  ],
+  "kind": "Кальяны, Калауды (HMD), Шланги",
+  "models": [
+   "Deluxe 066.02",
+   "SS11"
+  ],
+  "country": null,
+  "sources": [
+   "https://epicentrk.ua/shop/kalaudy-dlya-kalyanov/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Yahya",
+  "aliases": [
+   "yahya",
+   "яхья"
+  ],
+  "categories": [
+   "hookahs",
+   "accessories"
+  ],
+  "kind": "Кальяны, Калауды (HMD), Шланги",
+  "models": [
+   "Kernel Mini",
+   "Elegance",
+   "S200"
+  ],
+  "country": "США",
+  "sources": [
+   "https://epicentrk.ua/shop/kalaudy-dlya-kalyanov/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Karma",
+  "aliases": [
+   "karma",
+   "karma hookah",
+   "карма"
+  ],
+  "categories": [
+   "hookahs",
+   "bowls"
+  ],
+  "kind": "Кальяны, Чаши",
+  "models": [
+   "Hookah 3.0",
+   "Turkish Mini"
+  ],
+  "country": null,
+  "sources": [
+   "https://shanti.eu/hookahs/",
+   "https://epicentrk.ua/shop/kalyany/",
+   "https://mykalyan.ru/shop/kalyany/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Koress",
+  "aliases": [
+   "koress",
+   "коресс"
+  ],
+  "categories": [
+   "hookahs",
+   "accessories"
+  ],
+  "kind": "Кальяны, Аксессуары",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://shanti.eu/hookahs/",
+   "https://mykalyan.ru/shop/kalyany/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "KVZE",
+  "aliases": [
+   "kvze"
+  ],
+  "categories": [
+   "hookahs"
+  ],
+  "kind": "Кальяны",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://shanti.eu/hookahs/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Klifides",
+  "aliases": [
+   "klifides",
+   "клифидес"
+  ],
+  "categories": [
+   "hookahs"
+  ],
+  "kind": "Кальяны",
+  "models": [],
+  "country": "Чехия",
+  "sources": [
+   "https://shanti.eu/brand/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Marvin Smoke",
+  "aliases": [
+   "marvin smoke",
+   "марвин"
+  ],
+  "categories": [
+   "hookahs",
+   "accessories"
+  ],
+  "kind": "Кальяны, Калауды (HMD), Аксессуары",
+  "models": [],
+  "country": "Чехия",
+  "sources": [
+   "https://shanti.eu/brand/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Mexanika Smoke",
+  "aliases": [
+   "mexanika smoke",
+   "mexanika",
+   "механика"
+  ],
+  "categories": [
+   "hookahs",
+   "bowls",
+   "accessories"
+  ],
+  "kind": "Кальяны, Чаши, Аксессуары",
+  "models": [
+   "STM-B"
+  ],
+  "country": null,
+  "sources": [
+   "https://shanti.eu/hookahs/",
+   "https://mykalyan.ru/shop/kalyany/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "MVP",
+  "aliases": [
+   "mvp",
+   "mvp hookah"
+  ],
+  "categories": [
+   "hookahs",
+   "accessories"
+  ],
+  "kind": "Кальяны, Шланги, Аксессуары",
+  "models": [
+   "Rocket",
+   "MVP670"
+  ],
+  "country": null,
+  "sources": [
+   "https://shanti.eu/hookahs/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Nube",
+  "aliases": [
+   "nube",
+   "нубе"
+  ],
+  "categories": [
+   "hookahs",
+   "accessories"
+  ],
+  "kind": "Кальяны, Аксессуары",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://shanti.eu/hookahs/",
+   "https://mykalyan.ru/shop/kalyany/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Nebulla",
+  "aliases": [
+   "nebulla",
+   "небулла"
+  ],
+  "categories": [
+   "hookahs"
+  ],
+  "kind": "Кальяны",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://shanti.eu/hookahs/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Pumpkin",
+  "aliases": [
+   "pumpkin",
+   "pumpkin hookah"
+  ],
+  "categories": [
+   "hookahs"
+  ],
+  "kind": "Кальяны",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://shanti.eu/hookahs/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Soft Smoke",
+  "aliases": [
+   "soft smoke",
+   "софт смоук"
+  ],
+  "categories": [
+   "hookahs",
+   "accessories"
+  ],
+  "kind": "Кальяны, Шланги, Аксессуары",
+  "models": [
+   "VG 304"
+  ],
+  "country": null,
+  "sources": [
+   "https://shanti.eu/hookahs/",
+   "https://mykalyan.ru/shop/kalyany/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Top Mark",
+  "aliases": [
+   "top mark",
+   "топ марк"
+  ],
+  "categories": [
+   "hookahs",
+   "bowls",
+   "accessories"
+  ],
+  "kind": "Кальяны, Чаши, Шланги, Аксессуары",
+  "models": [
+   "Sagira",
+   "Amun",
+   "Tauret",
+   "Farah",
+   "Sokar",
+   "Fateh",
+   "Heket"
+  ],
+  "country": null,
+  "sources": [
+   "https://shanti.eu/hoses-and-mouthpieces/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Voodoo Smoke",
+  "aliases": [
+   "voodoo smoke",
+   "voodoo",
+   "вуду"
+  ],
+  "categories": [
+   "hookahs"
+  ],
+  "kind": "Кальяны",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://shanti.eu/hookahs/",
+   "https://mykalyan.ru/shop/kalyany/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Hookah Motors",
+  "aliases": [
+   "hookah motors",
+   "хука моторс"
+  ],
+  "categories": [
+   "hookahs"
+  ],
+  "kind": "Кальяны",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://shanti.eu/hookahs/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Khanjar",
+  "aliases": [
+   "khanjar",
+   "ханджар"
+  ],
+  "categories": [
+   "hookahs"
+  ],
+  "kind": "Кальяны",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://shanti.eu/hookahs/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Shisha Original",
+  "aliases": [
+   "shisha original"
+  ],
+  "categories": [
+   "hookahs",
+   "accessories"
+  ],
+  "kind": "Кальяны, Аксессуары",
+  "models": [],
+  "country": "Чехия",
+  "sources": [
+   "https://shanti.eu/brand/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Magic Glass",
+  "aliases": [
+   "magic glass"
+  ],
+  "categories": [
+   "hookahs",
+   "accessories"
+  ],
+  "kind": "Кальяны, Аксессуары",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://shanti.eu/hookahs/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Kohana",
+  "aliases": [
+   "kohana",
+   "кохана"
+  ],
+  "categories": [
+   "hookahs"
+  ],
+  "kind": "Кальяны",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://epicentrk.ua/shop/kalyany/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Atmos",
+  "aliases": [
+   "atmos",
+   "atmos hookah"
+  ],
+  "categories": [
+   "hookahs"
+  ],
+  "kind": "Кальяны",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://epicentrk.ua/shop/kalyany/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Hornet",
+  "aliases": [
+   "hornet",
+   "хорнет"
+  ],
+  "categories": [
+   "hookahs",
+   "accessories"
+  ],
+  "kind": "Кальяны, Калауды (HMD)",
+  "models": [
+   "ECO 03",
+   "Reef Option"
+  ],
+  "country": "Китай",
+  "sources": [
+   "https://epicentrk.ua/shop/kalaudy-dlya-kalyanov/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Storm",
+  "aliases": [
+   "storm",
+   "storm hookah"
+  ],
+  "categories": [
+   "hookahs",
+   "bowls",
+   "accessories"
+  ],
+  "kind": "Кальяны, Чаши, Калауды (HMD)",
+  "models": [
+   "Modern Phunnel"
+  ],
+  "country": "Китай",
+  "sources": [
+   "https://epicentrk.ua/shop/chashi-dlya-kalyanov/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Nanosmoke",
+  "aliases": [
+   "nanosmoke",
+   "наносмоук"
+  ],
+  "categories": [
+   "hookahs",
+   "bowls",
+   "accessories"
+  ],
+  "kind": "Кальяны, Чаши, Аксессуары",
+  "models": [
+   "Cube"
+  ],
+  "country": null,
+  "sources": [
+   "https://catalog.onliner.by/hookahs",
+   "https://mykalyan.ru/shop/kalyany/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Seven Star",
+  "aliases": [
+   "seven star"
+  ],
+  "categories": [
+   "hookahs"
+  ],
+  "kind": "Кальяны",
+  "models": [
+   "AM-571"
+  ],
+  "country": null,
+  "sources": [
+   "https://catalog.onliner.by/hookahs"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Pharaohs",
+  "aliases": [
+   "pharaohs",
+   "pharaoh's",
+   "фараонс"
+  ],
+  "categories": [
+   "hookahs",
+   "accessories"
+  ],
+  "kind": "Кальяны, Аксессуары",
+  "models": [
+   "Aztec",
+   "Nubia"
+  ],
+  "country": null,
+  "sources": [
+   "https://hookah.com/c/hookahs",
+   "https://www.hookahvault.com/collections/hookah-accessories"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Amira",
+  "aliases": [
+   "amira",
+   "амира"
+  ],
+  "categories": [
+   "hookahs",
+   "accessories"
+  ],
+  "kind": "Кальяны, Шланги",
+  "models": [
+   "Katana",
+   "Wand"
+  ],
+  "country": null,
+  "sources": [
+   "https://hookah.com/c/hookahs"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "BYO",
+  "aliases": [
+   "byo",
+   "byo hookah"
+  ],
+  "categories": [
+   "hookahs",
+   "bowls",
+   "accessories"
+  ],
+  "kind": "Кальяны, Чаши, Калауды (HMD), Шланги",
+  "models": [
+   "Orion",
+   "C23",
+   "C22",
+   "Phat",
+   "Galaxy 2"
+  ],
+  "country": null,
+  "sources": [
+   "https://hookah.com/c/hookahs"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "DUD",
+  "aliases": [
+   "dud",
+   "dud hookah"
+  ],
+  "categories": [
+   "hookahs"
+  ],
+  "kind": "Кальяны",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://hookah.com/c/hookahs"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "INVI",
+  "aliases": [
+   "invi",
+   "invi hookah"
+  ],
+  "categories": [
+   "hookahs"
+  ],
+  "kind": "Кальяны",
+  "models": [
+   "Reflection",
+   "Nano"
+  ],
+  "country": null,
+  "sources": [
+   "https://hookah.com/c/hookahs"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Smokezilla",
+  "aliases": [
+   "smokezilla"
+  ],
+  "categories": [
+   "hookahs"
+  ],
+  "kind": "Кальяны",
+  "models": [
+   "Cycor",
+   "Muto"
+  ],
+  "country": null,
+  "sources": [
+   "https://hookah.com/c/hookahs"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Vapor Hookah",
+  "aliases": [
+   "vapor hookah"
+  ],
+  "categories": [
+   "hookahs",
+   "accessories"
+  ],
+  "kind": "Кальяны, Шланги",
+  "models": [
+   "Pumpkin",
+   "Carbon Silicone",
+   "Atomic Silicone"
+  ],
+  "country": null,
+  "sources": [
+   "https://hookah.com/c/hookahs",
+   "https://www.hookahvault.com/collections/hoses"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Blade Hookah",
+  "aliases": [
+   "blade hookah",
+   "блейд"
+  ],
+  "categories": [
+   "hookahs",
+   "accessories"
+  ],
+  "kind": "Кальяны, Калауды (HMD), Шланги, Аксессуары",
+  "models": [
+   "M",
+   "LE",
+   "MAXX Royal",
+   "M2 Mini"
+  ],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/kalyany/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Conceptic Design",
+  "aliases": [
+   "conceptic design",
+   "conceptic",
+   "концептик"
+  ],
+  "categories": [
+   "hookahs",
+   "bowls",
+   "accessories"
+  ],
+  "kind": "Кальяны, Чаши, Калауды (HMD), Аксессуары",
+  "models": [
+   "HMD Steel"
+  ],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/kalyany/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Egeglas",
+  "aliases": [
+   "egeglas"
+  ],
+  "categories": [
+   "hookahs",
+   "accessories"
+  ],
+  "kind": "Кальяны, Аксессуары",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/kalyany/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "ESS",
+  "aliases": [
+   "ess",
+   "ess hookah"
+  ],
+  "categories": [
+   "hookahs",
+   "accessories"
+  ],
+  "kind": "Кальяны, Аксессуары",
+  "models": [
+   "Big Jonny"
+  ],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/kalyany/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "First Hookah",
+  "aliases": [
+   "first hookah"
+  ],
+  "categories": [
+   "hookahs"
+  ],
+  "kind": "Кальяны",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/kalyany/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Hookah Box",
+  "aliases": [
+   "hookah box",
+   "хука бокс"
+  ],
+  "categories": [
+   "hookahs"
+  ],
+  "kind": "Кальяны",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/kalyany/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Jetpack",
+  "aliases": [
+   "jetpack",
+   "джетпак"
+  ],
+  "categories": [
+   "hookahs"
+  ],
+  "kind": "Кальяны",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/kalyany/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Make Hookah",
+  "aliases": [
+   "make hookah"
+  ],
+  "categories": [
+   "hookahs",
+   "accessories"
+  ],
+  "kind": "Кальяны, Аксессуары",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/kalyany/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Mamay Customs",
+  "aliases": [
+   "mamay customs",
+   "mamay",
+   "мамай"
+  ],
+  "categories": [
+   "hookahs"
+  ],
+  "kind": "Кальяны",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/kalyany/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "MAXX",
+  "aliases": [
+   "maxx"
+  ],
+  "categories": [
+   "hookahs",
+   "bowls",
+   "accessories"
+  ],
+  "kind": "Кальяны, Чаши, Калауды (HMD), Аксессуары",
+  "models": [
+   "Crown"
+  ],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/kalyany/",
+   "https://shanti.eu/hookah-accessories/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "ML Clan",
+  "aliases": [
+   "ml clan"
+  ],
+  "categories": [
+   "hookahs"
+  ],
+  "kind": "Кальяны",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/kalyany/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Mr. Wood",
+  "aliases": [
+   "mr. wood",
+   "mr wood",
+   "мистер вуд"
+  ],
+  "categories": [
+   "hookahs",
+   "accessories"
+  ],
+  "kind": "Кальяны, Калауды (HMD), Шланги, Аксессуары",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/kalyany/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Oblik",
+  "aliases": [
+   "oblik",
+   "облик"
+  ],
+  "categories": [
+   "hookahs"
+  ],
+  "kind": "Кальяны",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/kalyany/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Orden",
+  "aliases": [
+   "orden",
+   "орден"
+  ],
+  "categories": [
+   "hookahs",
+   "bowls"
+  ],
+  "kind": "Кальяны, Чаши",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/kalyany/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "OSH",
+  "aliases": [
+   "osh",
+   "osh hookah"
+  ],
+  "categories": [
+   "hookahs",
+   "bowls"
+  ],
+  "kind": "Кальяны, Чаши",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/kalyany/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Panda",
+  "aliases": [
+   "panda",
+   "panda hookah"
+  ],
+  "categories": [
+   "hookahs",
+   "bowls",
+   "accessories"
+  ],
+  "kind": "Кальяны, Чаши, Аксессуары",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/kalyany/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Pandora",
+  "aliases": [
+   "pandora",
+   "pandora hookah"
+  ],
+  "categories": [
+   "hookahs"
+  ],
+  "kind": "Кальяны",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/kalyany/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Shi Carver",
+  "aliases": [
+   "shi carver",
+   "ши карвер"
+  ],
+  "categories": [
+   "hookahs",
+   "accessories"
+  ],
+  "kind": "Кальяны, Аксессуары",
+  "models": [
+   "New Easy",
+   "Static",
+   "Static Easy",
+   "Minigun"
+  ],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/kalyany/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Smokelab",
+  "aliases": [
+   "smokelab",
+   "смоклаб"
+  ],
+  "categories": [
+   "hookahs",
+   "bowls",
+   "accessories"
+  ],
+  "kind": "Кальяны, Чаши, Аксессуары",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://shanti.eu/hookah-bowls/",
+   "https://mykalyan.ru/shop/kalyany/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "VZ Hookah",
+  "aliases": [
+   "vz hookah"
+  ],
+  "categories": [
+   "hookahs",
+   "accessories"
+  ],
+  "kind": "Кальяны, Аксессуары",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/kalyany/",
+   "https://www.hookahvault.com/collections/hookah-accessories"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Y.K.A.P.",
+  "aliases": [
+   "y.k.a.p.",
+   "ykap",
+   "укап"
+  ],
+  "categories": [
+   "hookahs",
+   "bowls",
+   "accessories"
+  ],
+  "kind": "Кальяны, Чаши, Аксессуары",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/kalyany/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Душа",
+  "aliases": [
+   "душа"
+  ],
+  "categories": [
+   "hookahs"
+  ],
+  "kind": "Кальяны",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/kalyany/"
+  ],
+  "match": false,
+  "main_sub": null
+ },
+ {
+  "name": "Пушка",
+  "aliases": [
+   "пушка"
+  ],
+  "categories": [
+   "hookahs"
+  ],
+  "kind": "Кальяны",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/kalyany/"
+  ],
+  "match": false,
+  "main_sub": null
+ },
+ {
+  "name": "Хулиган",
+  "aliases": [
+   "хулиган",
+   "huligan"
+  ],
+  "categories": [
+   "hookahs",
+   "bowls",
+   "accessories"
+  ],
+  "kind": "Кальяны, Чаши, Аксессуары",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/kalyany/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "50Clouds",
+  "aliases": [
+   "50clouds",
+   "50 clouds"
+  ],
+  "categories": [
+   "hookahs",
+   "accessories"
+  ],
+  "kind": "Кальяны, Аксессуары",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/kalyany/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "CWP",
+  "aliases": [
+   "cwp",
+   "cwp hookah"
+  ],
+  "categories": [
+   "hookahs",
+   "accessories"
+  ],
+  "kind": "Кальяны, Калауды (HMD)",
+  "models": [
+   "Mono Gold"
+  ],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/kalyany/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Tyrant",
+  "aliases": [
+   "tyrant",
+   "tyrant hookah"
+  ],
+  "categories": [
+   "hookahs"
+  ],
+  "kind": "Кальяны",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/kalyany/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Sway",
+  "aliases": [
+   "sway",
+   "sway hookah"
+  ],
+  "categories": [
+   "hookahs"
+  ],
+  "kind": "Кальяны",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/kalyany/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "BATR",
+  "aliases": [
+   "batr"
+  ],
+  "categories": [
+   "hookahs"
+  ],
+  "kind": "Кальяны",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/kalyany/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Bodo",
+  "aliases": [
+   "bodo",
+   "bodo hookah"
+  ],
+  "categories": [
+   "hookahs"
+  ],
+  "kind": "Кальяны",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/kalyany/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Chousen",
+  "aliases": [
+   "chousen"
+  ],
+  "categories": [
+   "hookahs"
+  ],
+  "kind": "Кальяны",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/kalyany/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Artist",
+  "aliases": [
+   "artist",
+   "artist hookah"
+  ],
+  "categories": [
+   "hookahs"
+  ],
+  "kind": "Кальяны",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/kalyany/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Nomad",
+  "aliases": [
+   "nomad",
+   "nomad hookah"
+  ],
+  "categories": [
+   "hookahs"
+  ],
+  "kind": "Кальяны",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/kalyany/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "DON",
+  "aliases": [
+   "don",
+   "don hookah"
+  ],
+  "categories": [
+   "hookahs",
+   "bowls"
+  ],
+  "kind": "Кальяны, Чаши",
+  "models": [
+   "Smart Mini"
+  ],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/kalyany/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "LS",
+  "aliases": [
+   "ls",
+   "ls hookah"
+  ],
+  "categories": [
+   "hookahs",
+   "bowls",
+   "accessories"
+  ],
+  "kind": "Кальяны, Чаши, Аксессуары",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/kalyany/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Craft",
+  "aliases": [
+   "craft",
+   "craft hookah"
+  ],
+  "categories": [
+   "hookahs",
+   "bowls",
+   "accessories"
+  ],
+  "kind": "Кальяны, Чаши, Аксессуары",
+  "models": [
+   "Neo"
+  ],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/kalyany/",
+   "https://shanti.eu/hookah-accessories/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Werkbund",
+  "aliases": [
+   "werkbund",
+   "веркбунд"
+  ],
+  "categories": [
+   "bowls",
+   "hookahs",
+   "accessories"
+  ],
+  "kind": "Чаши, Кальяны, Калауды (HMD), Аксессуары",
+  "models": [
+   "Evo Deep",
+   "Midn",
+   "Tech",
+   "Patt",
+   "Bereza",
+   "Bionic"
+  ],
+  "country": "Украина",
+  "sources": [
+   "https://shanti.eu/hookah-bowls/",
+   "https://mykalyan.ru/shop/kalyany/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Oblako",
+  "aliases": [
+   "oblako",
+   "облако"
+  ],
+  "categories": [
+   "bowls",
+   "accessories"
+  ],
+  "kind": "Чаши, Аксессуары",
+  "models": [
+   "Phunnel M",
+   "Phunnel L",
+   "Mono Phunnel M",
+   "Mono Phunnel L",
+   "Killer",
+   "Египетская",
+   "Соло x Turk"
+  ],
+  "country": "Россия",
+  "sources": [
+   "https://www.hookahvault.com/pages/hookah-bowls",
+   "https://shanti.eu/hookah-bowls/",
+   "https://mykalyan.ru/shop/aksessuary/chashi-dlya-kalyana/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Kong",
+  "aliases": [
+   "kong",
+   "конг"
+  ],
+  "categories": [
+   "bowls",
+   "accessories"
+  ],
+  "kind": "Чаши, Аксессуары",
+  "models": [
+   "Mummy",
+   "Mummy Glaze",
+   "Venom"
+  ],
+  "country": null,
+  "sources": [
+   "https://www.hookahvault.com/pages/hookah-bowls",
+   "https://shanti.eu/hookah-bowls/",
+   "https://mykalyan.ru/shop/aksessuary/chashi-dlya-kalyana/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Cosmo Bowl",
+  "aliases": [
+   "cosmo bowl",
+   "cosmo",
+   "космо"
+  ],
+  "categories": [
+   "bowls",
+   "accessories"
+  ],
+  "kind": "Чаши, Аксессуары",
+  "models": [
+   "Classic",
+   "Turkish Mars",
+   "Russian Mummy",
+   "Russian Groot",
+   "Russian Meteora",
+   "Russian Predator",
+   "Russian Soft"
+  ],
+  "country": "Россия",
+  "sources": [
+   "https://www.hookahvault.com/pages/hookah-bowls",
+   "https://shanti.eu/hookah-bowls/",
+   "https://mykalyan.ru/shop/aksessuary/chashi-dlya-kalyana/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Alpaca",
+  "aliases": [
+   "alpaca",
+   "альпака"
+  ],
+  "categories": [
+   "bowls"
+  ],
+  "kind": "Чаши",
+  "models": [
+   "Suri",
+   "Egy",
+   "Cria"
+  ],
+  "country": null,
+  "sources": [
+   "https://www.hookahvault.com/pages/hookah-bowls"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Cyril",
+  "aliases": [
+   "cyril",
+   "cyril bowl"
+  ],
+  "categories": [
+   "bowls",
+   "accessories"
+  ],
+  "kind": "Чаши, Шланги, Аксессуары",
+  "models": [
+   "Silicone"
+  ],
+  "country": null,
+  "sources": [
+   "https://www.hookahvault.com/pages/hookah-bowls",
+   "https://hookah.com/c/hookah-accessories/hookah-bowls"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Hookah John",
+  "aliases": [
+   "hookah john",
+   "hookahjohn",
+   "хука джон"
+  ],
+  "categories": [
+   "bowls",
+   "accessories"
+  ],
+  "kind": "Чаши, Шланги",
+  "models": [
+   "Cinco",
+   "Alien",
+   "Trimony",
+   "Ferris"
+  ],
+  "country": null,
+  "sources": [
+   "https://hookah.com/c/hookah-accessories/hookah-bowls",
+   "https://www.hookahvault.com/pages/hookah-bowls",
+   "https://mykalyan.ru/shop/aksessuary/chashi-dlya-kalyana/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Bakkali Cornetto",
+  "aliases": [
+   "bakkali cornetto",
+   "bakkali"
+  ],
+  "categories": [
+   "bowls"
+  ],
+  "kind": "Чаши",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://www.hookahvault.com/pages/hookah-bowls"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Ascent",
+  "aliases": [
+   "ascent",
+   "ascent bowl"
+  ],
+  "categories": [
+   "bowls"
+  ],
+  "kind": "Чаши",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://www.hookahvault.com/pages/hookah-bowls"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Fantasia",
+  "aliases": [
+   "fantasia",
+   "fantasia hookah"
+  ],
+  "categories": [
+   "hookahs",
+   "bowls",
+   "accessories"
+  ],
+  "kind": "Кальяны, Чаши, Калауды (HMD), Шланги, Аксессуары",
+  "models": [
+   "Crystal Silicon",
+   "F1"
+  ],
+  "country": null,
+  "sources": [
+   "https://www.hookahvault.com/pages/hookah-bowls",
+   "https://www.hookahvault.com/collections/heat-management"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Mason Shishaware",
+  "aliases": [
+   "mason shishaware",
+   "shishaware"
+  ],
+  "categories": [
+   "bowls",
+   "accessories"
+  ],
+  "kind": "Чаши, Шланги, Аксессуары",
+  "models": [
+   "Stynger"
+  ],
+  "country": null,
+  "sources": [
+   "https://www.hookahvault.com/pages/hookah-bowls"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Urb",
+  "aliases": [
+   "urb",
+   "urb bowl"
+  ],
+  "categories": [
+   "bowls"
+  ],
+  "kind": "Чаши",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://www.hookahvault.com/pages/hookah-bowls"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "1010",
+  "aliases": [
+   "1010",
+   "1010 bowl"
+  ],
+  "categories": [
+   "bowls"
+  ],
+  "kind": "Чаши",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://www.hookahvault.com/pages/hookah-bowls"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Alkonost",
+  "aliases": [
+   "alkonost",
+   "алконост"
+  ],
+  "categories": [
+   "bowls",
+   "accessories"
+  ],
+  "kind": "Чаши, Аксессуары",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://shanti.eu/hookah-bowls/",
+   "https://mykalyan.ru/shop/aksessuary/chashi-dlya-kalyana/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Amfora",
+  "aliases": [
+   "amfora",
+   "амфора"
+  ],
+  "categories": [
+   "bowls",
+   "accessories"
+  ],
+  "kind": "Чаши, Аксессуары",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://shanti.eu/hookah-bowls/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Art Bar",
+  "aliases": [
+   "art bar"
+  ],
+  "categories": [
+   "bowls",
+   "accessories"
+  ],
+  "kind": "Чаши, Аксессуары",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://shanti.eu/hookah-bowls/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Bun Dem",
+  "aliases": [
+   "bun dem"
+  ],
+  "categories": [
+   "bowls",
+   "accessories"
+  ],
+  "kind": "Чаши, Аксессуары",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://shanti.eu/hookah-bowls/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Forma",
+  "aliases": [
+   "forma",
+   "forma bowl",
+   "форма"
+  ],
+  "categories": [
+   "bowls",
+   "accessories"
+  ],
+  "kind": "Чаши, Аксессуары",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://shanti.eu/hookah-bowls/",
+   "https://mykalyan.ru/shop/aksessuary/chashi-dlya-kalyana/"
+  ],
+  "match": false,
+  "main_sub": null
+ },
+ {
+  "name": "Gryn",
+  "aliases": [
+   "gryn",
+   "grynbowls"
+  ],
+  "categories": [
+   "bowls",
+   "accessories"
+  ],
+  "kind": "Чаши, Аксессуары",
+  "models": [
+   "Phunnel",
+   "Spawn",
+   "Mummy Glaze",
+   "Killer Glaze"
+  ],
+  "country": null,
+  "sources": [
+   "https://shanti.eu/hookah-bowls/",
+   "https://epicentrk.ua/shop/chashi-dlya-kalyanov/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Gusto Bowls",
+  "aliases": [
+   "gusto bowls",
+   "gusto",
+   "густо"
+  ],
+  "categories": [
+   "bowls",
+   "accessories"
+  ],
+  "kind": "Чаши, Аксессуары",
+  "models": [
+   "Glaze Turkish",
+   "Classic Phunnel",
+   "Harmony",
+   "Alien"
+  ],
+  "country": null,
+  "sources": [
+   "https://shanti.eu/hookah-bowls/",
+   "https://epicentrk.ua/shop/chashi-dlya-kalyanov/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "HC",
+  "aliases": [
+   "hc",
+   "hc bowl"
+  ],
+  "categories": [
+   "bowls",
+   "accessories"
+  ],
+  "kind": "Чаши, Аксессуары",
+  "models": [
+   "Cascade Phunnel",
+   "Bridge Phunnel"
+  ],
+  "country": null,
+  "sources": [
+   "https://shanti.eu/hookah-bowls/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Hookamonk",
+  "aliases": [
+   "hookamonk"
+  ],
+  "categories": [
+   "accessories",
+   "bowls"
+  ],
+  "kind": "Калауды (HMD), Чаши, Аксессуары",
+  "models": [
+   "Nova"
+  ],
+  "country": "Чехия",
+  "sources": [
+   "https://shanti.eu/hmd/"
+  ],
+  "match": true,
+  "main_sub": "hmd"
+ },
+ {
+  "name": "Kolos",
+  "aliases": [
+   "kolos",
+   "колос"
+  ],
+  "categories": [
+   "bowls",
+   "accessories"
+  ],
+  "kind": "Чаши, Аксессуары",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://shanti.eu/hookah-bowls/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Lunera",
+  "aliases": [
+   "lunera"
+  ],
+  "categories": [
+   "bowls",
+   "accessories"
+  ],
+  "kind": "Чаши, Аксессуары",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://shanti.eu/hookah-bowls/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Monolith",
+  "aliases": [
+   "monolith",
+   "monolith bowl",
+   "монолит"
+  ],
+  "categories": [
+   "bowls",
+   "accessories"
+  ],
+  "kind": "Чаши, Аксессуары",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://shanti.eu/hookah-bowls/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Moon",
+  "aliases": [
+   "moon",
+   "moon bowl",
+   "moonrave"
+  ],
+  "categories": [
+   "bowls",
+   "accessories"
+  ],
+  "kind": "Чаши, Аксессуары",
+  "models": [
+   "Killer",
+   "Turkish",
+   "Moonrave Phunnel"
+  ],
+  "country": null,
+  "sources": [
+   "https://shanti.eu/hookah-bowls/",
+   "https://mykalyan.ru/shop/aksessuary/chashi-dlya-kalyana/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "SerpBowls",
+  "aliases": [
+   "serpbowls",
+   "serp bowls"
+  ],
+  "categories": [
+   "bowls"
+  ],
+  "kind": "Чаши",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://shanti.eu/hookah-bowls/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Solaris",
+  "aliases": [
+   "solaris",
+   "solaris bowl",
+   "солярис"
+  ],
+  "categories": [
+   "bowls",
+   "accessories"
+  ],
+  "kind": "Чаши, Аксессуары",
+  "models": [
+   "Charon",
+   "Jupiter",
+   "Mars",
+   "Mercury",
+   "Titan",
+   "Phobos",
+   "Eva"
+  ],
+  "country": "Украина",
+  "sources": [
+   "https://shanti.eu/brand/",
+   "https://epicentrk.ua/shop/chashi-dlya-kalyanov/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Telamon",
+  "aliases": [
+   "telamon",
+   "теламон"
+  ],
+  "categories": [
+   "bowls",
+   "accessories"
+  ],
+  "kind": "Чаши, Аксессуары",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://shanti.eu/hookah-bowls/",
+   "https://mykalyan.ru/shop/aksessuary/chashi-dlya-kalyana/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Vintage Manufacture",
+  "aliases": [
+   "vintage manufacture",
+   "vintage bowl"
+  ],
+  "categories": [
+   "bowls",
+   "accessories"
+  ],
+  "kind": "Чаши, Аксессуары",
+  "models": [
+   "Apache"
+  ],
+  "country": null,
+  "sources": [
+   "https://shanti.eu/hookah-bowls/",
+   "https://mykalyan.ru/shop/aksessuary/chashi-dlya-kalyana/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Voskurimsya",
+  "aliases": [
+   "voskurimsya",
+   "воскуримся"
+  ],
+  "categories": [
+   "bowls",
+   "accessories"
+  ],
+  "kind": "Чаши, Аксессуары",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://shanti.eu/hookah-bowls/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Lavart",
+  "aliases": [
+   "lavart",
+   "лаварт"
+  ],
+  "categories": [
+   "bowls"
+  ],
+  "kind": "Чаши",
+  "models": [
+   "Aurora",
+   "Spectra",
+   "Nedra"
+  ],
+  "country": null,
+  "sources": [
+   "https://epicentrk.ua/shop/chashi-dlya-kalyanov/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Vantablack",
+  "aliases": [
+   "vantablack",
+   "вантаблэк"
+  ],
+  "categories": [
+   "bowls"
+  ],
+  "kind": "Чаши",
+  "models": [
+   "Wave"
+  ],
+  "country": null,
+  "sources": [
+   "https://epicentrk.ua/shop/chashi-dlya-kalyanov/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Overcup",
+  "aliases": [
+   "overcup",
+   "оверкап"
+  ],
+  "categories": [
+   "bowls"
+  ],
+  "kind": "Чаши",
+  "models": [
+   "Killa Arachnid",
+   "Puff",
+   "Cloud"
+  ],
+  "country": null,
+  "sources": [
+   "https://epicentrk.ua/shop/chashi-dlya-kalyanov/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "UNLTD",
+  "aliases": [
+   "unltd"
+  ],
+  "categories": [
+   "bowls"
+  ],
+  "kind": "Чаши",
+  "models": [
+   "Phunnel"
+  ],
+  "country": null,
+  "sources": [
+   "https://epicentrk.ua/shop/chashi-dlya-kalyanov/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Tactical",
+  "aliases": [
+   "tactical",
+   "tactical bowl"
+  ],
+  "categories": [
+   "bowls"
+  ],
+  "kind": "Чаши",
+  "models": [
+   "Livanka"
+  ],
+  "country": null,
+  "sources": [
+   "https://epicentrk.ua/shop/chashi-dlya-kalyanov/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Harmony",
+  "aliases": [
+   "harmony",
+   "harmony bowl",
+   "хармони"
+  ],
+  "categories": [
+   "bowls"
+  ],
+  "kind": "Чаши",
+  "models": [
+   "Фанел"
+  ],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/aksessuary/chashi-dlya-kalyana/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Aventador",
+  "aliases": [
+   "aventador",
+   "aventador bowl"
+  ],
+  "categories": [
+   "bowls",
+   "accessories"
+  ],
+  "kind": "Чаши, Аксессуары",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/aksessuary/chashi-dlya-kalyana/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Frigate",
+  "aliases": [
+   "frigate",
+   "frigate bowl"
+  ],
+  "categories": [
+   "bowls"
+  ],
+  "kind": "Чаши",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/aksessuary/chashi-dlya-kalyana/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Fumus",
+  "aliases": [
+   "fumus",
+   "фумус"
+  ],
+  "categories": [
+   "bowls"
+  ],
+  "kind": "Чаши",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/aksessuary/chashi-dlya-kalyana/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Olymp",
+  "aliases": [
+   "olymp",
+   "olymp bowl",
+   "олимп"
+  ],
+  "categories": [
+   "bowls",
+   "accessories"
+  ],
+  "kind": "Чаши, Аксессуары",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/aksessuary/chashi-dlya-kalyana/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Royal Bowls",
+  "aliases": [
+   "royal bowls"
+  ],
+  "categories": [
+   "bowls"
+  ],
+  "kind": "Чаши",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/aksessuary/chashi-dlya-kalyana/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Sacramento",
+  "aliases": [
+   "sacramento",
+   "sacramento bowl"
+  ],
+  "categories": [
+   "bowls",
+   "accessories"
+  ],
+  "kind": "Чаши, Аксессуары",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/aksessuary/chashi-dlya-kalyana/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "SunRay",
+  "aliases": [
+   "sunray",
+   "санрэй"
+  ],
+  "categories": [
+   "bowls"
+  ],
+  "kind": "Чаши",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/aksessuary/chashi-dlya-kalyana/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "ZEUZ",
+  "aliases": [
+   "zeuz"
+  ],
+  "categories": [
+   "bowls"
+  ],
+  "kind": "Чаши",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/aksessuary/chashi-dlya-kalyana/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "ZOV",
+  "aliases": [
+   "zov",
+   "zov bowl"
+  ],
+  "categories": [
+   "bowls"
+  ],
+  "kind": "Чаши",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/aksessuary/chashi-dlya-kalyana/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Истина",
+  "aliases": [
+   "истина"
+  ],
+  "categories": [
+   "bowls"
+  ],
+  "kind": "Чаши",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/aksessuary/chashi-dlya-kalyana/"
+  ],
+  "match": false,
+  "main_sub": null
+ },
+ {
+  "name": "Опа Дед",
+  "aliases": [
+   "опа дед"
+  ],
+  "categories": [
+   "bowls",
+   "accessories"
+  ],
+  "kind": "Чаши, Аксессуары",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/aksessuary/chashi-dlya-kalyana/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Upgrade",
+  "aliases": [
+   "upgrade",
+   "upgrade bowl"
+  ],
+  "categories": [
+   "bowls",
+   "accessories"
+  ],
+  "kind": "Чаши, Аксессуары",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/aksessuary/chashi-dlya-kalyana/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Let's Smoke",
+  "aliases": [
+   "let's smoke",
+   "lets smoke"
+  ],
+  "categories": [
+   "bowls"
+  ],
+  "kind": "Чаши",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/aksessuary/chashi-dlya-kalyana/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Hype",
+  "aliases": [
+   "hype",
+   "hype bowl"
+  ],
+  "categories": [
+   "bowls",
+   "accessories"
+  ],
+  "kind": "Чаши, Аксессуары",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/aksessuary/chashi-dlya-kalyana/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Sense",
+  "aliases": [
+   "sense",
+   "sense bowl"
+  ],
+  "categories": [
+   "bowls",
+   "accessories"
+  ],
+  "kind": "Чаши, Аксессуары",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/aksessuary/chashi-dlya-kalyana/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Arka",
+  "aliases": [
+   "arka"
+  ],
+  "categories": [
+   "accessories",
+   "bowls"
+  ],
+  "kind": "Калауды (HMD), Чаши, Аксессуары",
+  "models": [
+   "Savant"
+  ],
+  "country": "США",
+  "sources": [
+   "https://www.hookahvault.com/collections/heat-management",
+   "https://shanti.eu/hmd/"
+  ],
+  "match": true,
+  "main_sub": "hmd"
+ },
+ {
+  "name": "Apple on Top",
+  "aliases": [
+   "apple on top",
+   "aot"
+  ],
+  "categories": [
+   "accessories",
+   "bowls"
+  ],
+  "kind": "Калауды (HMD), Чаши, Аксессуары",
+  "models": [
+   "Provost",
+   "Provost III",
+   "Asher Tray"
+  ],
+  "country": null,
+  "sources": [
+   "https://www.hookahvault.com/collections/heat-management",
+   "https://shanti.eu/hookah-bowls/"
+  ],
+  "match": true,
+  "main_sub": "hmd"
+ },
+ {
+  "name": "Moshaik",
+  "aliases": [
+   "moshaik"
+  ],
+  "categories": [
+   "accessories"
+  ],
+  "kind": "Калауды (HMD), Аксессуары",
+  "models": [
+   "Halo"
+  ],
+  "country": null,
+  "sources": [
+   "https://www.hookahvault.com/collections/heat-management"
+  ],
+  "match": true,
+  "main_sub": "hmd"
+ },
+ {
+  "name": "ONMO",
+  "aliases": [
+   "onmo"
+  ],
+  "categories": [
+   "accessories"
+  ],
+  "kind": "Калауды (HMD)",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://www.hookahvault.com/collections/heat-management"
+  ],
+  "match": true,
+  "main_sub": "hmd"
+ },
+ {
+  "name": "Badcha",
+  "aliases": [
+   "badcha",
+   "бадча"
+  ],
+  "categories": [
+   "accessories"
+  ],
+  "kind": "Калауды (HMD), Аксессуары",
+  "models": [
+   "4.0",
+   "5.0",
+   "6.0",
+   "Mockingbird",
+   "Mockingbird v2"
+  ],
+  "country": null,
+  "sources": [
+   "https://shanti.eu/hmd/"
+  ],
+  "match": true,
+  "main_sub": "hmd"
+ },
+ {
+  "name": "Magma",
+  "aliases": [
+   "magma",
+   "magma hmd"
+  ],
+  "categories": [
+   "accessories"
+  ],
+  "kind": "Калауды (HMD), Аксессуары",
+  "models": [
+   "Tay7"
+  ],
+  "country": null,
+  "sources": [
+   "https://shanti.eu/hmd/"
+  ],
+  "match": true,
+  "main_sub": "hmd"
+ },
+ {
+  "name": "Shanti",
+  "aliases": [
+   "shanti",
+   "shanti hmd"
+  ],
+  "categories": [
+   "accessories"
+  ],
+  "kind": "Калауды (HMD), Аксессуары",
+  "models": [
+   "Atash Graphite"
+  ],
+  "country": "Чехия",
+  "sources": [
+   "https://shanti.eu/hmd/"
+  ],
+  "match": true,
+  "main_sub": "hmd"
+ },
+ {
+  "name": "AO",
+  "aliases": [
+   "ao",
+   "ao hookah"
+  ],
+  "categories": [
+   "accessories"
+  ],
+  "kind": "Калауды (HMD), Шланги, Аксессуары",
+  "models": [
+   "Premium Stainless Steel HMD",
+   "Standard HMD"
+  ],
+  "country": "Германия",
+  "sources": [
+   "https://hookah.com/c/hookah-accessories/other-hookah-accessories/heat-management-devices",
+   "https://shanti.eu/hookah-accessories/"
+  ],
+  "match": true,
+  "main_sub": "hmd"
+ },
+ {
+  "name": "Watta",
+  "aliases": [
+   "watta",
+   "ватта"
+  ],
+  "categories": [
+   "accessories"
+  ],
+  "kind": "Калауды (HMD), Аксессуары",
+  "models": [
+   "Frukt",
+   "Old School",
+   "Sigma",
+   "One",
+   "Roofus Pro"
+  ],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/aksessuary/kalaud/"
+  ],
+  "match": true,
+  "main_sub": "hmd"
+ },
+ {
+  "name": "WattaKeeper",
+  "aliases": [
+   "wattakeeper"
+  ],
+  "categories": [
+   "accessories"
+  ],
+  "kind": "Калауды (HMD)",
+  "models": [
+   "Hotman Step"
+  ],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/aksessuary/kalaud/"
+  ],
+  "match": true,
+  "main_sub": "hmd"
+ },
+ {
+  "name": "Zero",
+  "aliases": [
+   "zero",
+   "zero hmd"
+  ],
+  "categories": [
+   "accessories"
+  ],
+  "kind": "Калауды (HMD)",
+  "models": [],
+  "country": "Китай",
+  "sources": [
+   "https://epicentrk.ua/shop/kalaudy-dlya-kalyanov/"
+  ],
+  "match": true,
+  "main_sub": "hmd"
+ },
+ {
+  "name": "Razer",
+  "aliases": [
+   "razer",
+   "razer hmd"
+  ],
+  "categories": [
+   "accessories"
+  ],
+  "kind": "Калауды (HMD)",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://epicentrk.ua/shop/kalaudy-dlya-kalyanov/"
+  ],
+  "match": true,
+  "main_sub": "hmd"
+ },
+ {
+  "name": "Thunder Hose",
+  "aliases": [
+   "thunder hose"
+  ],
+  "categories": [
+   "accessories"
+  ],
+  "kind": "Шланги",
+  "models": [
+   "Dark Hose V4"
+  ],
+  "country": null,
+  "sources": [
+   "https://www.hookahvault.com/collections/hoses"
+  ],
+  "match": true,
+  "main_sub": "hose"
+ },
+ {
+  "name": "D Hose",
+  "aliases": [
+   "d hose",
+   "d-hose"
+  ],
+  "categories": [
+   "accessories"
+  ],
+  "kind": "Шланги",
+  "models": [
+   "Mini"
+  ],
+  "country": null,
+  "sources": [
+   "https://www.hookahvault.com/collections/hoses",
+   "https://hookah.com/c/hookah-accessories/hookah-hoses"
+  ],
+  "match": true,
+  "main_sub": "hose"
+ },
+ {
+  "name": "Shisha House",
+  "aliases": [
+   "shisha house"
+  ],
+  "categories": [
+   "accessories"
+  ],
+  "kind": "Шланги",
+  "models": [
+   "Galaxy",
+   "Gladiator"
+  ],
+  "country": null,
+  "sources": [
+   "https://hookah.com/c/hookah-accessories/hookah-hoses"
+  ],
+  "match": true,
+  "main_sub": "hose"
+ },
+ {
+  "name": "B2",
+  "aliases": [
+   "b2",
+   "b2 hose"
+  ],
+  "categories": [
+   "hookahs",
+   "accessories"
+  ],
+  "kind": "Кальяны, Шланги",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://www.hookahvault.com/pages/hookahs",
+   "https://www.hookahvault.com/collections/hoses"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Caesar",
+  "aliases": [
+   "caesar",
+   "caesar shisha"
+  ],
+  "categories": [
+   "accessories"
+  ],
+  "kind": "Шланги, Аксессуары",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://shanti.eu/hoses-and-mouthpieces/"
+  ],
+  "match": true,
+  "main_sub": "hose"
+ },
+ {
+  "name": "Just Black",
+  "aliases": [
+   "just black"
+  ],
+  "categories": [
+   "accessories"
+  ],
+  "kind": "Шланги, Аксессуары",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://shanti.eu/hoses-and-mouthpieces/"
+  ],
+  "match": true,
+  "main_sub": "hose"
+ },
+ {
+  "name": "Myko",
+  "aliases": [
+   "myko"
+  ],
+  "categories": [
+   "accessories"
+  ],
+  "kind": "Шланги, Аксессуары",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://shanti.eu/hoses-and-mouthpieces/"
+  ],
+  "match": true,
+  "main_sub": "hose"
+ },
+ {
+  "name": "Refork",
+  "aliases": [
+   "refork"
+  ],
+  "categories": [
+   "accessories"
+  ],
+  "kind": "Шланги, Аксессуары",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://shanti.eu/hoses-and-mouthpieces/"
+  ],
+  "match": true,
+  "main_sub": "hose"
+ },
+ {
+  "name": "Garden",
+  "aliases": [
+   "garden",
+   "garden hose"
+  ],
+  "categories": [
+   "accessories"
+  ],
+  "kind": "Шланги",
+  "models": [],
+  "country": "США",
+  "sources": [
+   "https://epicentrk.ua/shop/shlangi-dlya-kalyanov/"
+  ],
+  "match": true,
+  "main_sub": "hose"
+ },
+ {
+  "name": "Easy Choice",
+  "aliases": [
+   "easy choice"
+  ],
+  "categories": [
+   "accessories"
+  ],
+  "kind": "Шланги, Аксессуары",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/aksessuary/shlangi-dlya-kalyana/"
+  ],
+  "match": true,
+  "main_sub": "hose"
+ },
+ {
+  "name": "Smoland",
+  "aliases": [
+   "smoland"
+  ],
+  "categories": [
+   "accessories"
+  ],
+  "kind": "Шланги, Аксессуары",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/aksessuary/shlangi-dlya-kalyana/"
+  ],
+  "match": true,
+  "main_sub": "hose"
+ },
+ {
+  "name": "Vessel Glass",
+  "aliases": [
+   "vessel glass"
+  ],
+  "categories": [
+   "accessories"
+  ],
+  "kind": "Аксессуары",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/aksessuary/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Hookawell",
+  "aliases": [
+   "hookawell"
+  ],
+  "categories": [
+   "accessories"
+  ],
+  "kind": "Аксессуары",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/aksessuary/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Nilitex",
+  "aliases": [
+   "nilitex"
+  ],
+  "categories": [
+   "accessories"
+  ],
+  "kind": "Аксессуары",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/aksessuary/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Vulcan",
+  "aliases": [
+   "vulcan",
+   "vulcan hookah"
+  ],
+  "categories": [
+   "accessories"
+  ],
+  "kind": "Аксессуары",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/aksessuary/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Dogma",
+  "aliases": [
+   "dogma",
+   "dogma hookah"
+  ],
+  "categories": [
+   "accessories"
+  ],
+  "kind": "Аксессуары",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/aksessuary/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Drop",
+  "aliases": [
+   "drop",
+   "drop twistlock"
+  ],
+  "categories": [
+   "accessories"
+  ],
+  "kind": "Аксессуары",
+  "models": [
+   "Twistlock"
+  ],
+  "country": null,
+  "sources": [
+   "https://mykalyan.ru/shop/aksessuary/",
+   "https://shanti.eu/hookah-accessories/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "SKMT",
+  "aliases": [
+   "skmt"
+  ],
+  "categories": [
+   "accessories"
+  ],
+  "kind": "Аксессуары",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://www.hookahvault.com/collections/hookah-accessories"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Alite",
+  "aliases": [
+   "alite"
+  ],
+  "categories": [
+   "accessories"
+  ],
+  "kind": "Аксессуары",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://shanti.eu/hookah-accessories/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Limpuro",
+  "aliases": [
+   "limpuro"
+  ],
+  "categories": [
+   "accessories"
+  ],
+  "kind": "Аксессуары",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://shanti.eu/hookah-accessories/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Sahara Smoke",
+  "aliases": [
+   "sahara smoke"
+  ],
+  "categories": [
+   "accessories"
+  ],
+  "kind": "Аксессуары",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://shanti.eu/hookah-accessories/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Unity",
+  "aliases": [
+   "unity",
+   "unity hookah"
+  ],
+  "categories": [
+   "accessories"
+  ],
+  "kind": "Аксессуары",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://shanti.eu/hookah-accessories/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "Trigger",
+  "aliases": [
+   "trigger",
+   "trigger hookah"
+  ],
+  "categories": [
+   "accessories"
+  ],
+  "kind": "Аксессуары",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://shanti.eu/hookah-accessories/"
+  ],
+  "match": true,
+  "main_sub": null
+ },
+ {
+  "name": "XSchischa",
+  "aliases": [
+   "xschischa"
+  ],
+  "categories": [
+   "accessories"
+  ],
+  "kind": "Аксессуары",
+  "models": [],
+  "country": null,
+  "sources": [
+   "https://shanti.eu/hookah-accessories/"
+  ],
+  "match": true,
+  "main_sub": null
+ }
+]

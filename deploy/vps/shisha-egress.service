@@ -1,0 +1,14 @@
+[Unit]
+Description=Direct IPv4 egress for Shisha Market UIDs only
+Wants=network-online.target
+After=network-online.target
+Before=shisha-market.service shisha-caddy.service
+
+[Service]
+Type=oneshot
+RemainAfterExit=yes
+ExecStart=/opt/shisha-market/ops/shisha-egress.sh start
+ExecStop=/opt/shisha-market/ops/shisha-egress.sh stop
+
+[Install]
+WantedBy=multi-user.target

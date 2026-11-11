@@ -1,0 +1,46 @@
+.form { min-width: 0; }
+.form input, .form select, .form textarea { min-width: 0; max-width: 100%; }
+.photos { min-width: 0; border: 1px solid var(--border); border-radius: 8px; padding: 18px; }
+.photos legend { padding-inline: 8px; font-weight: 600; }
+.photoGrid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; margin-block: 16px; }
+.form .photo { display: flex; flex-direction: column; gap: 8px; min-width: 0; font-size: 13px; cursor: pointer; }
+.photo img { width: 100%; aspect-ratio: 4/3; height: auto; object-fit: cover; border: 1px solid var(--border); border-radius: 6px; }
+.photo[data-kept="false"] img { opacity: .4; }
+.photo span { display: flex; align-items: center; gap: 8px; min-height: 44px; }
+.form .photo input { width: 18px; height: 18px; padding: 0; flex: 0 0 18px; accent-color: var(--primary); }
+.actions { display: flex; gap: 12px; flex-wrap: wrap; }
+.actions > * { white-space: normal; text-align: center; }
+.draft { border-bottom: 1px solid var(--border); padding-bottom: 16px; }
+.photoActions { display: flex; flex-wrap: wrap; gap: 4px; }
+.photoActions > * { font-size: 12px; padding: 7px 10px; white-space: normal; }
+@media (max-width: 560px) {
+  .photoGrid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .photos { padding: 12px; }
+  .actions > * { width: 100%; }
+}
+
+/* The form is a stack of blocks; each block is one step of the listing. */
+.form.form { gap: 14px; }
+.block { display: flex; flex-direction: column; gap: 14px; min-width: 0; padding: 18px 20px 20px; border: 1px solid var(--border); border-radius: 12px; background: #fbfaf6; }
+.blockTitle { margin: 0; font-size: 15px; font-weight: 650; letter-spacing: -0.2px; }
+.block .photos { border: 0; padding: 0; }
+@media (max-width: 560px) {
+  .block { padding: 14px 14px 16px; }
+}
+
+/* Smart filling: the pasted-text block and what the form understood from the text. */
+.smart { background: white; border-style: dashed; }
+.facts { display: grid; gap: 6px; margin: 0; padding: 0; list-style: none; font-size: 14px; }
+.facts li { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px; padding: 6px 0; border-top: 1px solid var(--border); }
+.facts li > span { flex: 0 0 120px; color: var(--muted); font-size: 13px; }
+.facts em { color: var(--muted); font-style: normal; }
+.apply { margin-left: auto; padding: 4px 10px; border: 1px solid var(--border); border-radius: 999px; background: transparent; font-size: 12px; font-weight: 600; cursor: pointer; }
+.apply:hover { border-color: var(--primary); color: var(--primary); }
+.checklist { display: flex; flex-wrap: wrap; gap: 6px; margin: 6px 0 0; padding: 0; list-style: none; }
+.checklist li { padding: 4px 10px; border: 1px dashed var(--border); border-radius: 999px; font-size: 12px; color: var(--muted); }
+.checklist li[data-done="true"] { border-style: solid; border-color: #69775f; color: #3c4a35; }
+.checklist li[data-done="true"]::before { content: "✓ "; }
+@media (max-width: 560px) {
+  .facts li > span { flex-basis: 100%; }
+  .apply { margin-left: 0; }
+}

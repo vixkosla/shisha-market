@@ -1,0 +1,67 @@
+# Pending domain configuration, prepared 2026-10-09. Not the active Caddyfile.
+# Activate only after shisha-market.com is registered in the owner's account
+# and authoritative DNS resolves both hosts to this VPS:
+#   @    A      SERVER_IP
+#   www  CNAME  shisha-market.com.
+# Do not publish AAAA records: the site's egress is IPv4-only on this shared VPS.
+# Keep AUTH_ENABLED=false. Set APP_URL=https://shisha-market.com at activation.
+{
+	admin 127.0.0.1:2019
+	servers {
+		protocols h1 h2
+		max_header_size 32KB
+		timeouts {
+			read_header 10s
+			read_body 60s
+			idle 2m
+		}
+	}
+}
+
+# Preserve the existing IP preview and its short-lived public certificate.
+https://SERVER_IP {
+	tls {
+		issuer acme {
+			dir https://acme-v02.api.letsencrypt.org/directory
+			profile shortlived
+		}
+	}
+	encode zstd gzip
+	header X-Robots-Tag "noindex, nofollow, noarchive"
+	@operator path /api/operator/* /api/member/*
+	@other not path /api/operator/* /api/member/*
+	request_body @operator {
+		max_size 12MiB
+	}
+	request_body @other {
+		max_size 9MB
+	}
+	reverse_proxy 127.0.0.1:4387
+}
+
+shisha-market.com {
+	tls {
+		issuer acme {
+			dir https://acme-v02.api.letsencrypt.org/directory
+		}
+	}
+	encode zstd gzip
+	@operator path /api/operator/* /api/member/*
+	@other not path /api/operator/* /api/member/*
+	request_body @operator {
+		max_size 12MiB
+	}
+	request_body @other {
+		max_size 9MB
+	}
+	reverse_proxy 127.0.0.1:4387
+}
+
+www.shisha-market.com {
+	tls {
+		issuer acme {
+			dir https://acme-v02.api.letsencrypt.org/directory
+		}
+	}
+	redir https://shisha-market.com{uri} permanent
+}
